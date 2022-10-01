@@ -1,7 +1,5 @@
 # Generative AI
 
-# AI-enabled-CST
-
 ## Frontend
 
 painter: https://github.com/aml2610/react-painter#readme
