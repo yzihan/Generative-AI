@@ -42,6 +42,10 @@ StoryDall-E:
 https://github.com/adymaharana/storydalle?continueFlag=aecf3cf42991a37d09397fc61687c405
 https://huggingface.co/spaces/ECCV2022/storydalle
 
+Storygan: 
+https://arxiv.org/pdf/1812.02784.pdf
+https://github.com/yitong91/StoryGAN
+
 stable-diffusion-video: stable-diffusion-videos: https://github.com/nateraw/stable-diffusion-videos
 
 ## Video Generation
