@@ -3,6 +3,7 @@
 ## Frontend
 
 painter: https://github.com/aml2610/react-painter#readme
+replit: https://replit.com/~
 
 ## Image segmentation and recognition
 
@@ -47,6 +48,8 @@ https://arxiv.org/pdf/1812.02784.pdf
 https://github.com/yitong91/StoryGAN
 
 stable-diffusion-video: stable-diffusion-videos: https://github.com/nateraw/stable-diffusion-videos
+
+StyleCLIP: https://github.com/orpatashnik/StyleCLIP
 
 ## Video Generation
 
