@@ -37,6 +37,10 @@ Sassbook AI Story Generator: https://sassbook.com/ai-story-writer
 
 Rytr-an AI writing assistant: https://rytr.me/ 
 
+## Title generation
+
+OpenBMB: https://live.openbmb.org/ant
+
 ## Continue images generation
 
 StoryDall-E: 
@@ -63,6 +67,8 @@ CogVideo: https://github.com/THUDM/CogVideo
 
 text-image-video: https://huggingface.co/spaces/Kameswara/TextToVideo
 
+Imagen Video: https://imagen.research.google/video/
+
 ## 3D Generation
 
 DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
@@ -85,6 +91,12 @@ clipdraw: https://deepai.org/publication/clipdraw-exploring-text-to-drawing-synt
 
 styleclipdraw: https://github.com/pschaldenbrand/StyleCLIPDraw
 
+Midjourney: https://www.midjourney.com/home/
+
+## Outpainting
+
+stablediffusion-infinity: https://github.com/lkwq007/stablediffusion-infinity
+
 ## Pytorch implementation
 
 video-diffusion-pytorch: https://github.com/lucidrains/video-diffusion-pytorch
@@ -106,6 +118,8 @@ Replicate: https://replicate.com/
 Rapid API: https://rapidapi.com/hub
 
 ml5.js: https://ml5js.org/
+
+Pollinations: https://pollinations.ai/c/Anything
 
 ## Some development issue
 
