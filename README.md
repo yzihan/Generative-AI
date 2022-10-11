@@ -55,6 +55,8 @@ stable-diffusion-video: stable-diffusion-videos: https://github.com/nateraw/stab
 
 StyleCLIP: https://github.com/orpatashnik/StyleCLIP
 
+Generating image with specified character: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
+
 ## Video Generation
 
 Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions: https://phenaki.video/index.html
