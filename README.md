@@ -87,6 +87,8 @@ stable diffusion demo: https://demo.rowy.io/table/imageGeneration
 
 Disco Diffusion: https://colab.research.google.com/github/alembics/disco-diffusion/blob/main/Disco_Diffusion.ipynb
 
+Latent Diffusion: https://huggingface.co/spaces/multimodalart/latentdiffusion
+
 Dreamstudio: https://beta.dreamstudio.ai/dream
 
 clipdraw: https://deepai.org/publication/clipdraw-exploring-text-to-drawing-synthesis-through-language-image-encoders
@@ -94,6 +96,10 @@ clipdraw: https://deepai.org/publication/clipdraw-exploring-text-to-drawing-synt
 styleclipdraw: https://github.com/pschaldenbrand/StyleCLIPDraw
 
 Midjourney: https://www.midjourney.com/home/
+
+## Image Editing with Text
+
+Prompt-to-Prompt Image Editing with Cross-Attention Control: https://prompt-to-prompt.github.io/
 
 ## Outpainting
 
