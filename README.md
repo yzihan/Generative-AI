@@ -117,6 +117,10 @@ Midjourney: https://www.midjourney.com/home/
 
 Prompt-to-Prompt Image Editing with Cross-Attention Control: https://prompt-to-prompt.github.io/
 
+## Text augmentation
+
+Bloom: https://huggingface.co/bigscience/bloom
+
 ## Outpainting
 
 stablediffusion-infinity: https://github.com/lkwq007/stablediffusion-infinity
