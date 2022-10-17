@@ -121,6 +121,12 @@ Prompt-to-Prompt Image Editing with Cross-Attention Control: https://prompt-to-p
 
 Bloom: https://huggingface.co/bigscience/bloom
 
+OPT : Open Pre-trained Transformer Language Models: https://huggingface.co/facebook/opt-125m
+
+## seq2seq
+
+Bart: https://huggingface.co/facebook/bart-base
+
 ## Outpainting
 
 stablediffusion-infinity: https://github.com/lkwq007/stablediffusion-infinity
