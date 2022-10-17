@@ -41,6 +41,22 @@ Rytr-an AI writing assistant: https://rytr.me/
 
 OpenBMB: https://live.openbmb.org/ant
 
+## Text classification
+
+Cohere: https://os.cohere.ai/playground/large/classify
+
+## Text analysis
+
+Convert Unstructured Text Data Into Actionable Insights With Advanced Text Analysis: https://kpibees.com/
+
+Semantic Role Labeling： https://demo.allennlp.org/semantic-role-labeling/semantic-role-labeling
+
+Event extraction: 
+
+Sentiment analysis:
+
+Named entity recognition:
+
 ## Continue images generation
 
 StoryDall-E: 
