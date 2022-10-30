@@ -3,6 +3,7 @@
 ## Frontend
 
 painter: https://github.com/aml2610/react-painter#readme
+
 replit: https://replit.com/~
 
 ## Image segmentation and recognition
@@ -90,6 +91,22 @@ Imagen Video: https://imagen.research.google/video/
 ## 3D Generation
 
 DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
+
+## Text to 3D Scene
+
+https://github.com/oaishi/3DScene_from_text
+
+https://nlp.stanford.edu/projects/text2scene.shtml
+
+## Representing Scenes Generation
+
+https://www.matthewtancik.com/nerf
+
+## Compositional Visual Generation
+
+https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/
+
+https://people.csail.mit.edu/lishuang/#Home
 
 ## Image to Text
 
