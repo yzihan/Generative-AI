@@ -6,6 +6,16 @@ painter: https://github.com/aml2610/react-painter#readme
 
 replit: https://replit.com/~
 
+## Stable Diffusion related
+
+Stable Diffusion web UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+
+txt2mask: https://github.com/ThereforeGames/txt2mask
+
+Img2img Video: https://github.com/memes-forever/Stable-diffusion-webui-video
+
+Vid2Vid: https://github.com/Filarius/stable-diffusion-webui/blob/master/scripts/vid2vid.py
+
 ## Image segmentation and recognition
 
 semantic-segmentation: https://huggingface.co/nvidia/segformer-b0-finetuned-ade-512-512
