@@ -112,11 +112,23 @@ https://nlp.stanford.edu/projects/text2scene.shtml
 
 https://www.matthewtancik.com/nerf
 
+## Depth Analysis
+
+https://github.com/EPFL-VILAB/omnidata
+
 ## Compositional Visual Generation
 
 https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/
 
 https://people.csail.mit.edu/lishuang/#Home
+
+## Dynamic Human
+
+https://developer.nvidia.com/blog/human-like-character-animation-system-uses-ai-to-navigate-terrains/
+
+## Switch Human Body
+
+https://github.com/NVIDIA/vid2vid
 
 ## Image to Text
 
