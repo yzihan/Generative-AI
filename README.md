@@ -263,3 +263,11 @@ Forte: User-driven generative design
 A suggestive interface for 3D drawing
 
 MAPGEN: Mixed-Initiative Planning and Scheduling for the Mars Exploration Rover Mission
+
+Wordcraft: A Human-AI collaborative editor for story writing
+
+STORIUM: A collaborative Story Generation Platform
+
+Deep learning in a computational model for conceptual shifts in a co-creative design system
+
+Collabdraw: An environment for collaborative sketching with an artificial agent
