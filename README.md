@@ -62,11 +62,11 @@ Convert Unstructured Text Data Into Actionable Insights With Advanced Text Analy
 
 Semantic Role Labeling： https://demo.allennlp.org/semantic-role-labeling/semantic-role-labeling
 
-Event extraction: 
+Event extraction: https://huggingface.co/veronica320/QA-for-Event-Extraction
 
-Sentiment analysis:
+Sentiment analysis: https://huggingface.co/models?other=sentiment-analysis
 
-Named entity recognition:
+Named entity recognition: https://huggingface.co/dslim/bert-base-NER
 
 ## Continue images generation
 
@@ -84,7 +84,7 @@ StyleCLIP: https://github.com/orpatashnik/StyleCLIP
 
 Generating image with specified character: https://github.com/XavierXiao/Dreambooth-Stable-Diffusion
 
-## Video Generation
+## Text-to-Video Generation
 
 Phenaki: Variable Length Video Generation from Open Domain Textual Descriptions: https://phenaki.video/index.html
 
@@ -97,6 +97,16 @@ CogVideo: https://github.com/THUDM/CogVideo
 text-image-video: https://huggingface.co/spaces/Kameswara/TextToVideo
 
 Imagen Video: https://imagen.research.google/video/
+
+Magicvideo: Efficient video generation with latent diffusion models
+
+Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation
+
+Video Diffusion Models
+
+## Image-to-Video Generation
+
+Make it move: Controllable image-to-video generation with text descriptions
 
 ## 3D Generation
 
@@ -152,9 +162,13 @@ styleclipdraw: https://github.com/pschaldenbrand/StyleCLIPDraw
 
 Midjourney: https://www.midjourney.com/home/
 
+DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
+
 ## Image Editing with Text
 
 Prompt-to-Prompt Image Editing with Cross-Attention Control: https://prompt-to-prompt.github.io/
+
+Imagic: Text-Based Real Image Editing with Diffusion Models
 
 ## Text augmentation
 
@@ -198,7 +212,7 @@ Pollinations: https://pollinations.ai/c/Anything
 
 Access-Control-Allow-Origin: https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related?hl=en
 
-## Some interesting application papers
+## Some Human-AI Systems
 
 StoryBuddy: A Human-AI Collaborative Chatbot for Parent-Child Interactive Storytelling with Flexible Parental Involvement
 
@@ -209,3 +223,43 @@ I Lead, You Help but Only with Enough Details: Understanding User Experience of 
 FashionQ: An AI-Driven Creativity Support Tool for Facilitating Ideation in Fashion Design
 
 StreamSketch: Exploring Multi-Modal Interactions in Creative Live Streams
+
+CheXplain: Enabling Physicians to Explore and Understand Data-Driven, AI-Enabled Medical Imaging Analysis
+
+Lessons Learned from Designing an AI-Enabled Diagnosis Tool for Pathologists
+
+Improving Workflow Integration with xPath: Design and Evaluation of a Human-AI Diagnosis System in Pathology
+
+Augmenting Pathologists with NaviPath: Design and Evaluation of a Human-AI Collaborative Navigation System
+
+Human-Centered Tools for Coping with Imperfect Algorithms During Medical Decision-Making
+
+Human–computer collaboration for skin cancer recognition
+
+A Human-AI Collaborative Approach for Clinical Decision Making on Rehabilitation Assessment
+
+Principles of mixed-initiative user interfaces
+
+Believe it or not: Designing a human-AI partnership for mixed-initiative fact-checking
+
+Datatone: Managing ambiguity in natural language interfaces for data visualization
+
+Marvista: A Human-AI Collaborative Reading Tool
+
+CrossA11y: Identifying Video Accessibility Issues via Cross-Modal Grounding
+
+Revamp: Enhancing Accessible Information Seeking Experience of Online Shopping for Blind or Low Vision Users
+
+SOLVENT: A Mixed Initiative System for Finding Analogies between Research Papers
+
+DreamSketch: Early Stage 3D Design Explorations with Sketching and Generative Design
+
+SmartManikin: Virtual Humans with Agency for Design Tools
+
+Guided exploration of physically valid shapes for furniture design
+
+Forte: User-driven generative design
+
+A suggestive interface for 3D drawing
+
+MAPGEN: Mixed-Initiative Planning and Scheduling for the Mars Exploration Rover Mission
