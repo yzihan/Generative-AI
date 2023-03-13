@@ -110,7 +110,11 @@ Make it move: Controllable image-to-video generation with text descriptions
 
 ## 3D Generation
 
-DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/
+DreamFusion: Text-to-3D using 2D Diffusion: https://dreamfusion3d.github.io/; https://github.com/ashawkey/stable-dreamfusion
+
+dreamfields-3D: https://github.com/shengyu-meng/dreamfields-3D
+
+ZoeDepth：https://github.com/isl-org/ZoeDepth
 
 ## Text to 3D Scene
 
